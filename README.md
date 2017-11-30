@@ -28,3 +28,7 @@ tmux source-file ~/.tmux.conf
 
 Follow [this](http://tipsonubuntu.com/2017/05/30/install-sublime-text-3-ubuntu-16-04-official-way/#prettyPhoto) line to install Sublime as package and avoid bz2 package dealing.
 
+### Github Terminal Prompt
+
+Check out [this](https://askubuntu.com/questions/730754/how-do-i-show-the-git-branch-with-colours-in-bash-prompt) stackoverflow answer.
+
