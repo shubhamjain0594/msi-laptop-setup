@@ -10,6 +10,14 @@ Check this link [here](https://medium.com/@gentra/how-to-install-ubuntu-16-04-on
 
 Check this link out [here](https://askubuntu.com/questions/760934/graphics-issues-after-while-installing-ubuntu-16-04-16-10-with-nvidia-graphics).
 
+### CUDA Driver
+
+Please NVIDIA instructions to install latest cuda drivers [here](https://developer.nvidia.com/cuda-downloads).
+
+### CuDNN
+
+Please find instructions [here](https://developer.nvidia.com/cudnn).
+
 ## Upgrade system
 
 `sudo apt-get upgrade && sudo apt-get update`
@@ -32,3 +40,6 @@ Follow [this](http://tipsonubuntu.com/2017/05/30/install-sublime-text-3-ubuntu-1
 
 Check out [this](https://askubuntu.com/questions/730754/how-do-i-show-the-git-branch-with-colours-in-bash-prompt) stackoverflow answer.
 
+### Tensorflow installation
+
+Please use latest wheels from [here](https://github.com/mind/wheels) if latest release does not support latest CUDA and CuDNN. Install MKL libraries before using these wheels.
